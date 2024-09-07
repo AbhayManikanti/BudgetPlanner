@@ -23,9 +23,9 @@ The Budget and Expense Tracker is a desktop application developed using PyQt5 fo
 
 1. **Create and Activate a Virtual Environment**:
 
-   ```bash
+   ```
    python -m venv venv
-   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+   source venv\Scripts\activate
    ```
 2. **Install Required Libraries:**
   ```
